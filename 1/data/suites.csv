@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 17 13:50:19 GMT 2023","Sun Dec 17 13:50:22 GMT 2023","3138","Suite1","TestNG Test Demo","org.example.RestAPI_Tests","org.example.RestAPI_Tests","verifyUser","To get the details of user with id 3","Test Description : Verify the details of user of id-3"
+"passed","Sun Dec 17 13:50:22 GMT 2023","Sun Dec 17 13:50:22 GMT 2023","307","Suite1","TestNG Test Demo","org.example.RestAPI_Tests","org.example.RestAPI_Tests","createUser","To create a new user","Test Description : Verify the creation of a new user"
