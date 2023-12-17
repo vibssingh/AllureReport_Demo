@@ -1,0 +1,1 @@
+[{"uid":"fb0cbb7e2931f0ff","name":"To create a new user","time":{"start":1702821571439,"stop":1702821571753,"duration":314},"status":"passed","severity":"normal"},{"uid":"8f78c171a44997c6","name":"To get the details of user with id 3","time":{"start":1702821568638,"stop":1702821571370,"duration":2732},"status":"passed","severity":"normal"}]
