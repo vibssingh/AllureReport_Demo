@@ -3,7 +3,7 @@
 <suite name = "Suite1">
     <test name = "TestNG Test Demo">
         <classes>
-            <class name = "org.example.RestAPITests"/>
+            <class name = "org.example.RestAPI_Tests"/>
         </classes>
     </test>
 </suite>
